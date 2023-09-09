@@ -17,3 +17,9 @@ Carpetas vacias: git no realiza un seguimiento de las carpetas vacias.
 .gitigbore: para ignorar archivos o carpetas
 
 git commit -m "Inicio proyecto de ecommerce"
+
+1.- git add "nombre del archivo" / git add. (todo de una)
+2.- git commit -m "mensaje"
+3.- git push origin master / main
+
+(primera vez, antes del push) git remote add origin https://github.com/cynthiaCaes/git.git
